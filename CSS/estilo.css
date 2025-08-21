@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(255, 255, 255);
+    color: rgb(105, 201, 231);
+    font-size: 34px;
+}
+
+body p{
+    font-size: 20px;
+    color: rgb(26, 255, 72);
+    font-size: 35px;
+}
+article{
+    background-color: rgb(216, 241, 140);
+    color: rgb(156, 20, 20);
+        font-size: 22px;
+        border: 5px solid black;
+    padding: 20px;
+    margin: 15px;
+}
+#use{
+    font-size: 22   px;
+    color: rgb(44, 227, 7);
+}
