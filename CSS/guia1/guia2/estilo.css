@@ -1,0 +1,64 @@
+img {
+  width: 50px;
+  height: auto;
+}
+
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-image:url(https://cdn.wallpapersafari.com/61/75/hlCN3M.jpg) ;
+  margin: auto;
+  padding: 20px;
+  font-style: italic;
+  background-size: 70%;
+  background-repeat: no-repeat;
+  background-position-x: center; 
+  background-attachment: fixed;
+  background-position-y:center ;
+}
+body {
+  background-color: #0636699d; 
+  color: #ffffff;
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  color: #f7c600; 
+  text-shadow: 2px 2px #836024;
+  margin-bottom: 30px;
+  
+}
+
+.galeria {
+  text-align: center;
+  font-size: 0;
+}
+
+.imagen {
+  display: inline-block;  
+  width: 15%;
+  margin: 1%;
+  background-color: #073000bd; 
+  border: 2px solid #000000; 
+  border-radius: 10px;
+  padding: 10px;
+  vertical-align: top;
+  box-shadow: 0 0 10px #e600ff; 
+  box-sizing: border-box;
+}
+
+.imagen img {
+  width: 110px;
+  height: 300px;
+  object-fit: contain;
+  border-radius: 8px;
+  border: 7px solid #e2e2e2ab; 
+}
+
+.imagen p {
+  margin-top: 10px;
+  font-weight: bold;
+  color: #f70000b4; 
+}
